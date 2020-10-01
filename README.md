@@ -3,12 +3,14 @@
  * @Date: 2020-10-01 15:18:58
  * @Copyright 2020 DSCode
  * @Open Source License: MIT
- * @LastEditTime: 2020-10-01 18:18:48
+ * @LastEditTime: 2020-10-01 18:22:29
  * @FilePath: /DsCodeStudio/README.md
  * @Description: All about me！
 -->
 
 ## Hi, I'm [Dongshan!](https://github.dscode.top) 👋
+
+<img src="./static/community.svg"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DsCodeStudio&count_private=true&show_icons=true" alt="Pawan's github stats"/>
 
