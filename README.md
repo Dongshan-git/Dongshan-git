@@ -9,7 +9,8 @@
 -->
 
 ## Hi, I'm [Dongshan!](https://github.dscode.top) 👋
-![](https://github.dscode.top/assets/images/community-c4522fb406f9f37065d008cf632eeea0.svg)
+
+<img src="https://github.dscode.top/assets/images/community-c4522fb406f9f37065d008cf632eeea0.svg" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DsCodeStudio&count_private=true&show_icons=true" alt="Pawan's github stats"/>
 
