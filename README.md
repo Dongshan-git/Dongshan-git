@@ -11,7 +11,7 @@
 ## Hi, I'm [Dongshan!](https://github.dscode.top) 👋
 
 <img src="https://github.dscode.top/assets/images/community-c4522fb406f9f37065d008cf632eeea0.svg" />
-<div style="display:flex">
+<div style="display:flex;width:100%">
 <img align="right" src="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&count_private=true&show_icons=true" alt="DsCodeStudio's github stats"/>
 <img align="left" src="https://github-readme-stats.dscodestudio.vercel.app/api/top-langs/?username=DsCodeStudio&langs_count=10&layout=compact" alt="DsCodeStudio's Top Langs"/>
 </div>
