@@ -12,7 +12,7 @@
 
 <img src="https://github.dscode.top/assets/images/community-c4522fb406f9f37065d008cf632eeea0.svg" />
 
-<a href="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
+<a href="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" style="max-width:50%;">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" style="max-width:50%;"/>
 </a>
 
