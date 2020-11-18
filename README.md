@@ -25,4 +25,13 @@
 
 
 <!--START_SECTION:waka-->
+```text
+Week: 10 November, 2020 - 17 November, 2020
+
+Markdown     7 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   39.67 % 
+Python       4 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.06 % 
+JavaScript   1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+SCSS         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+HTML         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+```
 <!--END_SECTION:waka-->
