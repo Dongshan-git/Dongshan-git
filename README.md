@@ -24,7 +24,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2020 - 17 November, 2020
+Week: 11 November, 2020 - 18 November, 2020
 
 Markdown     6 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   39.29 % 
 Python       6 hrs           ████████▓░░░░░░░░░░░░░░░░   35.31 % 
