@@ -24,12 +24,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2020 - 22 November, 2020
+Week: 16 November, 2020 - 23 November, 2020
 
-Python       7 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   34.42 % 
-Markdown     3 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-JavaScript   3 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-HTML         2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-TypeScript   2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python       7 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   36.82 % 
+JavaScript   3 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
+HTML         2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+TypeScript   2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Markdown     2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 ```
 <!--END_SECTION:waka-->
