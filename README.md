@@ -13,7 +13,7 @@
 <img src="https://github.dscode.top/assets/images/community-c4522fb406f9f37065d008cf632eeea0.svg" />
 -->
 <a href="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+<img align="center" alt="Dongshan's Github Stats" src="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 </a>
 
 <a href="https://github-readme-stats.dscodestudio.vercel.app/api/top-langs/?username=DsCodeStudio&layout=compact&langs_count=10">
