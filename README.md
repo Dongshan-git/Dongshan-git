@@ -3,7 +3,7 @@
  * @Date: 2020-10-10 16:49:48
  * @Copyright 2020 DSCode
  * @Open Source License: MIT
- * @LastEditTime: 2020-12-09 10:45:58
+ * @LastEditTime: 2020-12-09 10:51:30
  * @FilePath: \DsCodeStudio\README.md
  * @Description:
 -->
@@ -25,7 +25,7 @@
 <a href="https://github-readme-stats.dscodestudio.vercel.app/api/top-langs/?username=DsCodeStudio&layout=compact&langs_count=10">
   <img
     align="center"
-    src="https://github-readme-stats.dscodestudio.vercel.app/api/top-langs/?username=DsCodeStudio&layout=compact&langs_count=10&hide=javascript,html"
+    src="https://github-readme-stats.dscodestudio.vercel.app/api/top-langs/?username=DsCodeStudio&layout=compact&langs_count=10&hide=javascript,html&hide_border=true"
   />
 </a>
 
