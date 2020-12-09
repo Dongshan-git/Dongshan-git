@@ -3,14 +3,14 @@
  * @Date: 2020-10-10 16:49:48
  * @Copyright 2020 DSCode
  * @Open Source License: MIT
- * @LastEditTime: 2020-12-09 11:57:55
+ * @LastEditTime: 2020-12-09 12:00:28
  * @FilePath: \DsCodeStudio\README.md
  * @Description:
 -->
 
 ## Hi, I'm [Dongshan!](https://github.dscode.top) 👋
 
-![](./static/bg-1.jpg)
+![](./static/bg-2.jpg)
 
 <a href="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
 <img
