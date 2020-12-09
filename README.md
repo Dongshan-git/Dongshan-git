@@ -3,7 +3,7 @@
  * @Date: 2020-10-10 16:49:48
  * @Copyright 2020 DSCode
  * @Open Source License: MIT
- * @LastEditTime: 2020-12-09 10:40:38
+ * @LastEditTime: 2020-12-09 10:44:38
  * @FilePath: \DsCodeStudio\README.md
  * @Description:
 -->
@@ -14,20 +14,16 @@
 <img src="https://github.dscode.top/assets/images/community-c4522fb406f9f37065d008cf632eeea0.svg" />
 -->
 
-<div style="display: flex">
-  <div>
-    <img
-      alt="Dongshan's Github Stats"
-      src="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-    />
-  </div>
-  <div>
-    <img
-      alt="Most Used Languages"
-      src="https://github-readme-stats.dscodestudio.vercel.app/api/top-langs/?username=DsCodeStudio&layout=compact&langs_count=10&hide=javascript,html"
-    />
-  </div>
-</div>
+<img
+  align="center"
+  alt="Dongshan's Github Stats"
+  src="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+/>
+
+<img
+  align="center"
+  src="https://github-readme-stats.dscodestudio.vercel.app/api/top-langs/?username=DsCodeStudio&layout=compact&langs_count=10&hide=javascript,html"
+/>
 
 ### This week's dev breakdown 🖥:
 
