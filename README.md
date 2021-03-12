@@ -5,12 +5,11 @@
  * @Open Source License: MIT
  * @LastEditTime: 2020-12-09 12:01:21
  * @FilePath: \DsCodeStudio\README.md
- * @Description:
+ * @Description: ![](./static/bg-1.jpg)
 -->
 
 ## Hi, I'm [Dongshan!](https://github.dscode.top) 👋
 
-![](./static/bg-1.jpg)
 <a href="https://github-readme-stats.dscodestudio.vercel.app/api/top-langs/?username=DsCodeStudio&layout=compact&langs_count=10">
   <img
     align="center"
