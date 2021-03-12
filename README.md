@@ -11,15 +11,6 @@
 ## Hi, I'm [Dongshan!](https://github.dscode.top) 👋
 
 ![](./static/bg-1.jpg)
-
-<a href="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
-<img
-    align="center"
-    alt="Dongshan's Github Stats"
-    src="https://github-readme-stats.dscodestudio.vercel.app/api?username=DsCodeStudio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-  />
-</a>
-
 <a href="https://github-readme-stats.dscodestudio.vercel.app/api/top-langs/?username=DsCodeStudio&layout=compact&langs_count=10">
   <img
     align="center"
