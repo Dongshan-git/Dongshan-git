@@ -3,14 +3,11 @@
  * @create: 2020-10-10 16:49 PM
  * @license: MIT
  * @lastAuthor: DSCode
- * @lastEditTime: 2021-09-10 11:56 AM
+ * @lastEditTime: 2021-09-10 11:57 AM
  * @desc: Some of my profiles.
 -->
  <div align="center">
   <p><img src="https://gpvc.arturio.dev/DsCodeStudio" /></p>
-  <p></p>
-  <h2>Hi, I'm <a href="https://www.dscode.top">[Dongshan]</a>👋</h2>
-
   <p>
     <a href="https://github.com/DsCodeStudio"
       ><img
