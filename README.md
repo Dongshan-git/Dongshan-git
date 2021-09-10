@@ -6,7 +6,7 @@
  * @lastEditTime: 2021-09-06 19:42 PM
  * @desc: Some of my profiles.
 -->
-
+<div align="center">
 # Hi, I'm [Dongshan!](https://www.dscode.top) 👋
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -32,3 +32,4 @@
 <a href="https://github.com/DsCodeStudio">
 <img align="center" src="https://github-readme-stats-alpha-murex.vercel.app/api/?username=DsCodeStudio&count_private=true&title_color=5094F0&icon_color=5094F0&text_color=343434&bg_color=FFFEFE&show_icons=true" alt="Ds github stats" />
 </a>
+</div>
