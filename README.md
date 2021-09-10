@@ -3,7 +3,7 @@
  * @create: 2020-10-10 16:49 PM
  * @license: MIT
  * @lastAuthor: DSCode
- * @lastEditTime: 2021-09-10 11:54 AM
+ * @lastEditTime: 2021-09-10 11:56 AM
  * @desc: Some of my profiles.
 -->
  <div align="center">
@@ -18,7 +18,7 @@
         alt="github"
         height="30"
     /></a>
-    <a href=" https://dev.to/dscodestudio"
+    <a href="https://dev.to/dscodestudio"
       ><img
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
         alt="github"
