@@ -147,7 +147,7 @@
     <a href="https://github.com/DsCodeStudio">
       <img
         align="center"
-        src="https://github-readme-stats-alpha-murex.vercel.app/api/?username=DsCodeStudio&count_private=true&title_color=5094F0&icon_color=5094F0&text_color=343434&bg_color=FFFEFE&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api/?username=DsCodeStudio&count_private=true&title_color=5094F0&icon_color=5094F0&text_color=343434&bg_color=FFFEFE&show_icons=true"
         alt="Ds github stats"
       />
     </a>
