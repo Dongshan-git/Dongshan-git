@@ -8,7 +8,7 @@
 -->
  <div align="center">
   <p><img src="https://gpvc.arturio.dev/Dongshan-git" /></p>
-  <p>
+<!--   <p>
     <a href="https://github.com/Dongshan-git"
       ><img
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
@@ -136,7 +136,7 @@
         height="20"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"
     /></code>
-  </p>
+  </p> -->
   <!-- <p>
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=Dongshan-git"
