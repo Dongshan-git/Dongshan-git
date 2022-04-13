@@ -7,9 +7,9 @@
  * @desc: Some of my profiles.
 -->
  <div align="center">
-  <p><img src="https://gpvc.arturio.dev/DsCodeStudio" /></p>
+  <p><img src="https://gpvc.arturio.dev/Dongshan-git" /></p>
   <p>
-    <a href="https://github.com/DsCodeStudio"
+    <a href="https://github.com/Dongshan-git"
       ><img
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
         alt="github"
@@ -139,15 +139,15 @@
   </p>
   <!-- <p>
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=DsCodeStudio"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Dongshan-git"
       alt="GitHub streak stats"
     />
   </p> -->
   <p>
-    <a href="https://github.com/DsCodeStudio">
+    <a href="https://github.com/Dongshan-git">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/?username=DsCodeStudio&count_private=true&title_color=5094F0&icon_color=5094F0&text_color=343434&bg_color=FFFEFE&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api/?username=Dongshan-git&count_private=true&title_color=5094F0&icon_color=5094F0&text_color=343434&bg_color=FFFEFE&show_icons=true"
         alt="Ds github stats"
       />
     </a>
